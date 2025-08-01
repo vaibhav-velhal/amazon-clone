@@ -16,7 +16,7 @@ It replicates the layout, navigation, and product sections of Amazon's main page
 
 ## 📷 Screenshot
 
-![Amazon Clone Screenshot] (Amazon_Clone_Project_Output.png)
+![Amazon Clone Screenshot](Amazon_Clone_Project_Output.png)
 
 > ✨ Note: All images used are for educational and non-commercial purposes only.
 
@@ -27,4 +27,4 @@ It replicates the layout, navigation, and product sections of Amazon's main page
 ## 🧑‍💻 Author
 
 **Vaibhav Umesh Velhal**  
-📧 [vaibhav.velhal1614@gmail.com] (mailto:vaibhav.velhal1614@gmail.com)
+📧 [vaibhav.velhal1614@gmail.com](mailto:vaibhav.velhal1614@gmail.com)
